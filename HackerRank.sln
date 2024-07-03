@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalFDifferance", "DiagonalFDifferance\DiagonalFDifferance.csproj", "{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{5E16CB53-9A10-4100-811A-55BDD4B139F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
