@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision", "Subarra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing the Leaderboard", "Climbing the Leaderboard\Climbing the Leaderboard.csproj", "{107CE049-1E61-434B-ADD9-A381B486DE7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{EEE5992F-328C-465B-994B-FD5CF3D3397F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE5992F-328C-465B-994B-FD5CF3D3397F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE5992F-328C-465B-994B-FD5CF3D3397F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE5992F-328C-465B-994B-FD5CF3D3397F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE5992F-328C-465B-994B-FD5CF3D3397F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
