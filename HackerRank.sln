@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalFDifferance", "DiagonalFDifferance\DiagonalFDifferance.csproj", "{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalFDifferance", "DiagonalFDifferance\DiagonalFDifferance.csproj", "{DA5834D3-CC4A-4EA4-82B5-E6E56E14A4AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{5E16CB53-9A10-4100-811A-55BDD4B139F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{5E16CB53-9A10-4100-811A-55BDD4B139F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climbing the Leaderboard", "Climbing the Leaderboard\Climbing the Leaderboard.csproj", "{107CE049-1E61-434B-ADD9-A381B486DE7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E16CB53-9A10-4100-811A-55BDD4B139F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107CE049-1E61-434B-ADD9-A381B486DE7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
