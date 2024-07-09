@@ -23,10 +23,8 @@ class Result
 
     public static long aVeryBigSum(List<long> ar)
     {
-        // Initialize a variable to store the sum
         long sum = 0;
 
-        // Iterate through each element in the list and add it to the sum
         foreach (long num in ar)
         {
             sum += num;
