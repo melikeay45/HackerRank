@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Climbing the Leaderboard", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{EEE5992F-328C-465B-994B-FD5CF3D3397F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{06D060C6-B78A-428F-85B1-03EE93B2FED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{06D060C6-B78A-428F-85B1-03EE93B2FED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-DivisibleSubset", "Non-DivisibleSubset\Non-DivisibleSubset.csproj", "{8BB67393-D1B6-441B-82F2-1FFCA80E386D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{06D060C6-B78A-428F-85B1-03EE93B2FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D060C6-B78A-428F-85B1-03EE93B2FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D060C6-B78A-428F-85B1-03EE93B2FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB67393-D1B6-441B-82F2-1FFCA80E386D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB67393-D1B6-441B-82F2-1FFCA80E386D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB67393-D1B6-441B-82F2-1FFCA80E386D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB67393-D1B6-441B-82F2-1FFCA80E386D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
