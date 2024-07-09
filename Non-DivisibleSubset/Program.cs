@@ -22,26 +22,21 @@ class Result
             remainderCounts[num % k]++;
         }
 
-        // Maximum subset size initialization
         int maxSubsetSize = 0;
 
-        // If there are any numbers divisible by k, include at most one
         if (remainderCounts[0] > 0)
         {
             maxSubsetSize++;
         }
 
-        // Check pairs of remainders
         for (int i = 1; i <= k / 2; i++)
         {
             if (i == k - i)
             {
-                // If remainders are exactly half of k, include at most one
                 maxSubsetSize++;
             }
             else
             {
-                // Otherwise, include the higher count of the two complementary remainders
                 maxSubsetSize += Math.Max(remainderCounts[i], remainderCounts[k - i]);
             }
         }
